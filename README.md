@@ -1,6 +1,13 @@
 # lyric-song-scrapper
 * Simply Code For Search Lyric Song By : https://www.lyricsfreak.com
 
+## Instaliation
+```bash
+git clone https://github.com/rezzaapr/lyric-song-scrapper
+cd lyric-song-scrapper
+pip3 install -r requirements.txt
+```
+
 ## Usage Example
 ```python
 from lirik import search #Importing Module
